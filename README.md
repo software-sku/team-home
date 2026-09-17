@@ -1,5 +1,6 @@
 # team-home
-팀명:목표에이플러스 (Aiple)
+팀명:결정중
+목표에이플러스(aplus)/에이플(Aiple)
 
 팀원 명단(이름/GitHub ID/역할 희망) readme에 추가해 커밋
 
